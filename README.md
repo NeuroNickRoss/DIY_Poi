@@ -13,6 +13,7 @@ One phone connection controls both poi simultaneously via ESP-NOW.
 | 6 LED strips | WS2812 / NeoPixel, 5 LEDs per strip |
 | Data pin | GPIO 2 |
 | Power | 5V (USB or battery pack) |
+| On/Off Switch | 3 way toggle switch |
 
 ---
 
