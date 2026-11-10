@@ -10,7 +10,7 @@ One phone connection controls both poi simultaneously via ESP-NOW.
 | Component | Spec |
 |---|---|
 | Microcontroller | ESP32 DevKit1 (×2) |
-| LED strip | WS2812 / NeoPixel, 5 LEDs per strip |
+| 6 LED strips | WS2812 / NeoPixel, 5 LEDs per strip |
 | Data pin | GPIO 2 |
 | Power | 5V (USB or battery pack) |
 
